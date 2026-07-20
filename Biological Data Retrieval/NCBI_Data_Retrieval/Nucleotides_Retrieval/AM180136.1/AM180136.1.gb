@@ -1,0 +1,87 @@
+LOCUS       AM180136                2873 bp    DNA     linear   BCT 23-MAY-2006
+DEFINITION  Streptococcus pneumoniae partial 23S rRNA gene, strain 547.
+ACCESSION   AM180136
+VERSION     AM180136.1
+KEYWORDS    23S ribosomal RNA; 23S rRNA gene.
+SOURCE      Streptococcus pneumoniae
+  ORGANISM  Streptococcus pneumoniae
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Streptococcaceae; Streptococcus.
+REFERENCE   1
+  AUTHORS   Rantala,M., Haanpera-Heikkinen,M., Lindgren,M., Seppala,H.,
+            Huovinen,P. and Jalava,J.
+  TITLE     Streptococcus pneumoniae isolates resistant to telithromycin
+  JOURNAL   Antimicrob. Agents Chemother. 50 (5), 1855-1858 (2006)
+   PUBMED   16641460
+REFERENCE   2  (bases 1 to 2873)
+  AUTHORS   Rantala,M.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2005) Rantala M.H., Bacterial and Inflammatory
+            Diseases, National Public Health Institute, Kiinamyllynkatu 13,
+            20520, FINLAND
+FEATURES             Location/Qualifiers
+     source          1..2873
+                     /organism="Streptococcus pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="547"
+                     /isolation_source="sinuses"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1313"
+                     /geo_loc_name="Finland:Kokkola"
+                     /note="telithromycin resistant"
+     gene            <1..>2873
+                     /gene="23S rRNA"
+     rRNA            <1..>2873
+                     /gene="23S rRNA"
+                     /product="23S ribosomal RNA"
+ORIGIN      
+        1 cgcacggtgg atgccttggc actaggagcc gacgaaggac gtgacaaacg acgatatgcc
+       61 ttgggtagct gtaagtaagc gatgatccag ggatttccga atgggggaac ccaacaggta
+      121 atacctgtta cccacatctg ttaaggatgt gaggaggaag acgcagtgaa ctgaaacatc
+      181 taagtagctg caggaagaga aagcaaaagc gattgcctta gtagcggcga gcgaaacggc
+      241 agaagggcaa accgaagagt ttactcttcg gggttgtagg actgcaatgt ggactcaaag
+      301 attatagaag aatgatttgg gaagatcagc caaagagagt aatagcctcg tatttaaaat
+      361 agtctttgta cctagcagta tcctgagtac ggcgggacac gtgaaatccc gtcggaatct
+      421 gggaggacca tctcccaacc ctaaatactc cctagtgacc gatagtgaac cagtaccgtg
+      481 agggaaaggt gaaaagcacc ccgggagggg agtgaaatag aacctgaaac cgtgtgccta
+      541 caacaagttc gagcccgtta atgggtgaga gcgtgccttt tgtagaatga accggcgagt
+      601 tacgttatga tgcgaggtta agttgaagag acggagccgt agggaaaccg agtctgaata
+      661 gggcgcctta gtatcatgac gtagacccga aaccatgtga cctacccatg agcaggttga
+      721 aggtgcggta agacgcactg gaggaccgaa ccagggcacg ttgaaaagtg cttggatgac
+      781 ttgtgggtag cggagaaatt ccaaacgaac ttggagatag ctggttctct ccgaaatagc
+      841 tttagggcta gcgtcgacat tagagattct tggaggtaga gcactgtttg ggtgaggggt
+      901 ccatcccgga ttaccaatct cagataaact ccgaatgcca atgaattatg gtcggcagtc
+      961 agactgcgag tgctaagatc cgtagtcgaa agggaaacag cccagaccac cagctaaggt
+     1021 cccaaaataa ttgttaagtg gaaaaggatg tggggttgca cagacaacta ggatgttagc
+     1081 ttagaagcag ctattcattc aaagagtgcg taatagctca ctagtcgagt gaccctgcgc
+     1141 cgaaaatgta ccggggctaa aacaatttac cgaagctgtg gataccttta taggtatggt
+     1201 aggagagcgt tctatgtgtg atgaaggtat accgtgagga gtgctggaac gcatagaagt
+     1261 gagaatgccg gtatgagtag cgaaagacag gtgagaatcc tgtccaccgt aagactaagg
+     1321 tttccagggg aaggctcgtc cgccctgggt tagtcgggac ctaaggagag accgaaaggt
+     1381 gtatccgatg gacaacaggt tgatattcct gtactagagt atgtagtgat ggagggacgc
+     1441 agtaggctaa ctaaagcaga cgattggaag agtctgtcta agcagtgagg tgtgaattga
+     1501 gtcaaatgct taattctata acattgagct gtgatgggga gcgaagttta gtagcgaagt
+     1561 tagtgacgtc acactgccaa gaaaagcttc tagcgtttaa acatactcta cccgtaccgc
+     1621 aaaccgacac aggtagtcga ggcgagtagc ctcaggtgag cgagagaact ctcgttaagg
+     1681 aactcggcaa aatgaccccg taacttcggg agaaggggtg ctgacttaaa gtcagccgca
+     1741 gtgaataggc ccaagcaact gtttatcaaa aacacagctc tctgctaaat cgtaagatga
+     1801 tgtatagggg gtgacgcctg cccggtgctg gaaggttaag aggagtgctt agcgtaagcg
+     1861 aaggtatgaa ttgaagcccc agtaaacggc ggccgtaact ataacggtcc taaggtagcg
+     1921 aaattccttg tcgggtaagt tccgacccgc acgaaaggcg taatgatttg ggcactgtct
+     1981 caacgagaga ctcggtgaaa ttttagtacc tgtgaagatg caggttaccc gcgacaggac
+     2041 ggaaagaccc catggagctt tactgcagtt tgatattgag tgtctgtacc acatgtacag
+     2101 gataggtagg agtctaagag atcgggacgc cagtttcgaa ggagacgctg ttgggatact
+     2161 acccttgtgt tatggccact ctaacccaga taggtgatcc ctatcggaga cagtgtctga
+     2221 cgggcagttt gactggggcg gtcgcctcct aaaaggtaac ggaggcgccc aaaggttccc
+     2281 tcagaatggt tggaaatcat tcgcagagtg taaaggtata agggagcttg actgcgagag
+     2341 ctacaactcg agcagggacg aaagtcgggc ttagtgatcc ggtggttccg tatggaaggg
+     2401 ccatcgctca acggataaaa gctaccctgg ggataacagg cttatctccc ccaagagttc
+     2461 acatcgacgg ggaggtttgg cacctcgatg tcggctcgtc gcatcctggg gctgtagtcg
+     2521 gtcccaaggg ttgggctgtt cgcccattaa agcggcacgc gagctgggtt cagaacgtcg
+     2581 tgagacagtt cggtccctat ccgtcgcggg cgtaggaaat ttgagaggat ctgctcctag
+     2641 tacgagagga ccagagtgga cttaccgctg gtgtaccagt tgtcttgcca aaggcatcgc
+     2701 tgggtagcta tgtagggaag ggataaacgc tgaaagcatc taagtgtgaa acccacctca
+     2761 agatgagatt tcccatgatt atatatcagt aagagccctg agagatgatc aggtagatag
+     2821 gttagaagtg gaagtgtggc gacacatgta gcggactaat actaatagct cga
+//
+
