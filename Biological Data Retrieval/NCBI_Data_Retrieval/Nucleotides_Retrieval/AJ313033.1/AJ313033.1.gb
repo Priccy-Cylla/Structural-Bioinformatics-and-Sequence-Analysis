@@ -1,0 +1,78 @@
+LOCUS       AJ313033                1102 bp    DNA     linear   BCT 15-APR-2005
+DEFINITION  Salmonella paratyphi clyA gene for cytolysin A.
+ACCESSION   AJ313033
+VERSION     AJ313033.1
+KEYWORDS    clyA gene; cytolysin A.
+SOURCE      Salmonella enterica subsp. enterica serovar Paratyphi A (Salmonella
+            paratyphi)
+  ORGANISM  Salmonella enterica subsp. enterica serovar Paratyphi A
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Salmonella.
+REFERENCE   1
+  AUTHORS   Oscarsson,J.
+  JOURNAL   Thesis (1999) Department of Microbiology, Umea University, Umea,
+            Sweden
+REFERENCE   2
+  AUTHORS   Oscarsson,J., Westermark,M., Lofdahl,S. and Uhlin,B.
+  TITLE     Expression of a pore-forming cytotoxin by Salmonella ser. Typhi and
+            Salmonella ser. Paratyphi A
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1102)
+  AUTHORS   Oscarsson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAY-2001) Oscarsson J., Molecular Biology, Umea
+            University, Umea, 90187, SWEDEN
+FEATURES             Location/Qualifiers
+     source          1..1102
+                     /organism="Salmonella enterica subsp. enterica serovar
+                     Paratyphi A"
+                     /mol_type="genomic DNA"
+                     /strain="SMI S3068/99"
+                     /serovar="Paratyphi A"
+                     /isolate="human clinical isolate"
+                     /sub_species="enterica"
+                     /db_xref="taxon:54388"
+                     /geo_loc_name="Bangladesh"
+                     /note="synonyms Salmonella enterica subsp. enterica
+                     serovar Paratyphi A, Salmonella choleraesuis subsp.
+                     choleraesuis serovar Paratyphi A"
+     gene            75..986
+                     /gene="clyA"
+     CDS             75..986
+                     /gene="clyA"
+                     /function="pore-forming protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytolysin A"
+                     /protein_id="CAC38362.1"
+                     /db_xref="GOA:Q93RR6"
+                     /db_xref="InterPro:IPR010356"
+                     /db_xref="UniProtKB/Swiss-Prot:Q93RR6"
+                     /translation="MTGIFAEQTVEVVKSAIETADGALDFYNKYLDQVIPWKTFDETI
+                     KELSRFKQEYSQEASVLVGDIKVLLMDSQDKYFEATQTVYEWCGVVTQLLSAYILLFD
+                     EYNEKKASAQKDILIRILDDGVNKLNEAQKSLLGSSQSFNNASGKLLALDSQLTNDFS
+                     EKSSYFQSQVDRIRKEAYAGAAAGIVAGPFGLIISYSIAAGVIEGKLIPELNDRLKAV
+                     QNFFTSLSVTVKQANKDIDAAKLKLATEIAAIGEIKTETETTRFYVDYDDLMLSLLKG
+                     AAKKMINTCNEYQQRHGKKTLLEVPDI"
+ORIGIN      
+        1 ggaggcaata ggtaggaata agttataaaa caatagctta attgcaattt atatatttaa
+       61 agaggcaaat gattatgact ggaatatttg cagaacaaac tgtagaggta gttaaaagcg
+      121 cgatcgaaac cgcagatggg gcattagatt tttataacaa atacctcgac caggttatcc
+      181 cctggaagac ctttgatgaa accataaaag agttaagccg ttttaaacag gagtactcgc
+      241 aggaagcttc tgttttagtt ggtgatatta aagttttgct tatggacagc caggataagt
+      301 attttgaagc gacacaaact gtttatgaat ggtgtggtgt cgtgacgcaa ttactctcag
+      361 cgtatatttt actatttgat gaatataatg agaaaaaagc atcagcgcag aaagacattc
+      421 tcatcaggat attagatgat ggcgtcaata aactgaatga agcgcaaaaa tctctcctgg
+      481 gaagttcaca aagtttcaac aacgcttcag gaaaactgct ggcattagat agccagttaa
+      541 ctaatgattt ctcggaaaaa agtagttatt tccagtcaca ggtggataga attcgtaagg
+      601 aagcttatgc cggtgctgca gcaggcatag tcgccggtcc gtttggatta attatttcct
+      661 attctattgc tgcgggcgtg attgaaggga aattgattcc agaattgaat gacaggctaa
+      721 aagcagtgca aaatttcttt actagcttat cagtcacagt gaaacaagcg aataaagata
+      781 tcgatgcggc aaaattgaaa ttagccactg aaatagcagc aattggggag ataaaaacgg
+      841 aaaccgaaac aaccagattc tacgttgatt atgatgattt aatgctttct ttactaaaag
+      901 gagctgcaaa gaaaatgatt aacacctgta atgaatacca acaaaggcac ggtaagaaga
+      961 cgcttctcga ggttcctgac atctgataca ttttcattcg ctctgtttac ttttaacgcc
+     1021 cgatagcgtg aagaaaatga gagacggaga aaaagcgata ttcaacagcc cgataaacaa
+     1081 gagtcgttac cgggctggcg ag
+//
+
