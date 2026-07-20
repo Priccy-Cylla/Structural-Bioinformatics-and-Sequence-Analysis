@@ -1,0 +1,176 @@
+LOCUS       AH002594                3932 bp    DNA     linear   PRI 10-JUN-2016
+DEFINITION  Homo sapiens angiotensinogen (AGT) gene, complete cds.
+ACCESSION   AH002594 M24685 M24686 M24687 M24688 M24689
+VERSION     AH002594.2
+KEYWORDS    angiotensin; angiotensinogen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3932)
+  AUTHORS   Gaillard,I., Clauser,E. and Corvol,P.
+  TITLE     Structure of human angiotensinogen gene
+  JOURNAL   DNA 8 (2), 87-99 (1989)
+   PUBMED   2924688
+COMMENT     On or before Jun 10, 2016 this sequence version replaced M24685.1,
+            M24686.1, M24687.1, M24688.1, M24689.1, AH002594.1.
+FEATURES             Location/Qualifiers
+     source          1..3932
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="1q42-q43"
+     gene            468..3856
+                     /gene="AGT"
+     exon            468..503
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=1
+     intron          504..590
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=1
+     gap             591..690
+                     /estimated_length=unknown
+     CDS             join(1086..1941,2190..2457,2676..2820,3077..3265)
+                     /gene="AGT"
+                     /codon_start=1
+                     /product="angiotensinogen"
+                     /protein_id="AAA51679.1"
+                     /db_xref="GDB:G00-118-750"
+                     /translation="MRKRAPQSEMAPAGVSLRATILCLLAWAGLAAGDRVYIHPFHLV
+                     IHNESTCEQLAKANAGKPKDPTFIPAPIQAKTSPVDEKALQDQLVLVAAKLDTEDKLR
+                     AAMVGMLANFLGFRIYGMHSELWGVVHGATVLSPTAVFGTLASLYLGALDHTADRLQA
+                     ILGVPWKDKNCTSRLDAHKVLSALQAVQGLLVAQGRADSQAQLLLSTVVGVFTAPGLH
+                     LKQPFVQGLALYTPVVLPRSLDFTELDVAAEKIDRFMQAVTGWKTGCSLMGASVDSTL
+                     AFNTYVHFQGKMKGFSLLAEPQEFWVDNSTSVSVPMLSGMGTFQHWSDIQDNFSVTEV
+                     PFTESACLLLIQPHYASDLDKVEGLTFQQNSLNWMKKLSPRTIHLTMPQLVLQGSYDL
+                     QDLLAQAELPAILHTELNLQKLSNDRIRVGEVLNSIFFELEADEREPTESTQQLNKPE
+                     VLEVTLNRPFLFAVYDQSATALHFLGRVANPLSTA"
+     sig_peptide     1086..1184
+                     /gene="AGT"
+                     /note="G00-118-750"
+     mat_peptide     join(1185..1941,2190..2457,2676..2820,3077..3262)
+                     /gene="AGT"
+                     /product="angiotensinogen"
+                     /note="G00-118-750"
+     intron          1942..>2037
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=1
+     gap             2038..2137
+                     /estimated_length=unknown
+     intron          <2138..2189
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=2
+     exon            2190..2457
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=3
+     intron          2458..>2513
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=3
+     gap             2515..2614
+                     /estimated_length=unknown
+     intron          <2615..2675
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=3
+     exon            2676..2820
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=4
+     intron          2821..>2887
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=4
+     gap             2888..2987
+                     /estimated_length=unknown
+     intron          <2988..3076
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=4
+     exon            3077..>3856
+                     /gene="AGT"
+                     /note="G00-118-750"
+                     /number=5
+     regulatory      3651..3656
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AGT"
+                     /note="G00-118-750"
+     regulatory      3851..3856
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AGT"
+                     /note="G00-118-750"
+ORIGIN      
+        1 cccatgagcg ggcagcaggg tcagaagtgg cccccgtgtt gcctaagcaa gactctcccc
+       61 tgccctctgc cctctgcacc tccggcctgc atgtccctgt ggcctcttgg gggtacatct
+      121 cccggggctg ggtcagaagg cctgggtggt tggcctcagg ctgtcacaca cctagggaga
+      181 tgctcccgtt tctgggaacc ttggccccga ctcctgcaaa cttcggtaaa tgtgtaactc
+      241 gaccctgcac cggctcactc tgttcagcag tgaaactctg catcgatcac taagacttcc
+      301 tggaagaggt cccagcgtga gtgtcgcttc tggcatctgt ccttctggcc agcctgtggt
+      361 ctggccaagt gatgtaaccc tcctctccag cctgtgcaca ggcagcctgg gaacagctcc
+      421 atccccaccc ctcagctata aatagggcat cgtgacccgg ccgggggaag aagctgccgt
+      481 tgttctgggt actacagcag aaggtaagcg ggggccccct cagctccttc tggtcttgtc
+      541 tctctcagga tgtaactgag ctgtgggcta ggaggaaaag gcccgggaga nnnnnnnnnn
+      601 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      661 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn gtccatctcc tcatctcctc ttctcataag
+      721 gacacaggtc atattagatc agggctcacc ctcatggcct cattttaact taatcatctc
+      781 tttaaagatc ctgtctccaa ataatggtca cattctaggt cctggggttt aggacttcaa
+      841 cacgggcatt atggccgttg gggaggtagg acataattca gctgatattg tgcattttgc
+      901 acttggatca tgtagatatt ttccatggag ctttgaatcc atttcttctt ttttttgtag
+      961 acatgaatga tttattctgg gctaaatggt gacaggaata ttgagacaat gaaagatctg
+     1021 gttagatggc acttaaaggt cagttaataa ccacctttca ccctttgcaa aatgatattt
+     1081 caggtatgcg gaagcgagca ccccagtctg agatggctcc tgccggtgtg agcctgaggg
+     1141 ccaccatcct ctgcctcctg gcctgggctg gcctggctgc aggtgaccgg gtgtacatac
+     1201 accccttcca cctcgtcatc cacaatgaga gtacctgtga gcagctggca aaggccaatg
+     1261 ccgggaagcc caaagacccc accttcatac ctgctccaat tcaggccaag acatcccctg
+     1321 tggatgaaaa ggccctacag gaccagctgg tgctagtcgc tgcaaaactt gacaccgaag
+     1381 acaagttgag ggccgcaatg gtcgggatgc tggccaactt cttgggcttc cgtatatatg
+     1441 gcatgcacag tgagctatgg ggcgtggtcc atggggccac cgtcctctcc ccaacggctg
+     1501 tctttggcac cctggcctct ctctatctgg gagccttgga ccacacagct gacaggctac
+     1561 aggcaatcct gggtgttcct tggaaggaca agaactgcac ctcccggctg gatgcgcaca
+     1621 aggtcctgtc tgccctgcag gctgtacagg gcctgctagt ggcccagggc agggctgata
+     1681 gccaggccca gctgctgctg tccacggtgg tgggcgtgtt cacagcccca ggcctgcacc
+     1741 tgaagcagcc gtttgtgcag ggcctggctc tctatacccc tgtggtcctc ccacgctctc
+     1801 tggacttcac agaactggat gttgctgctg agaagattga caggttcatg caggctgtga
+     1861 caggatggaa gactggctgc tccctgatgg gagccagtgt ggacagcacc ctggctttca
+     1921 acacctacgt ccacttccaa ggtaaggcaa acctctctgc tggctctggc cctaggactt
+     1981 agtatccatg tgtagctgag atcagccagt caggccttgg agatgggcag ggggcagnnn
+     2041 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2101 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnncct gcccctgtct tgggtgactc
+     2161 ttccctccct gtctcctgtc tgatttcagg gaagatgaag ggcttctccc tgctggccga
+     2221 gccccaggag ttctgggtgg acaacagcac ctcagtgtct gttcccatgc tctctggcat
+     2281 gggcaccttc cagcactgga gtgacatcca ggacaacttc tcggtgactg aagtgccctt
+     2341 cactgagagc gcctgcctgc tgctgatcca gcctcactat gcctctgacc tggacaaggt
+     2401 ggagggtctc actttccagc aaaactccct caactggatg aagaaactgt ctccccggta
+     2461 gagccctccc ggtctcccct ggaatgtggg agccacactc tcctgaccca ggctnnnnnn
+     2521 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2581 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnncctctg ggagagccct cactgtgtgg
+     2641 cctggagcct tcctaactgt gcatcatctc cccaggacca tccacctgac catgccccaa
+     2701 ctggtgctgc aaggatctta tgacctgcag gacctgctcg cccaggctga gctgcccgcc
+     2761 attctgcaca ccgagctgaa cctgcaaaaa ttgagcaatg accgcatcag ggtgggggag
+     2821 gtatttacct tccttgccta cctggtccat tgcacaggtg agcatgatta aggaaaagag
+     2881 ctatggtnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2941 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnagc ccaccgccgg
+     3001 ccctctagcc ctcacgaccc tgggtcaccc atgcgccctc agaatgatcc tgatcctgat
+     3061 gtctggtcct ttgcaggtgc tgaacagcat tttttttgag cttgaagcgg atgagagaga
+     3121 gcccacagag tctacccaac agcttaacaa gcctgaggtc ttggaggtga ccctgaaccg
+     3181 cccattcctg tttgctgtgt atgatcaaag cgccactgcc ctgcacttcc tgggccgcgt
+     3241 ggccaacccg ctgagcacag catgaggcca gggccccaga acacagtgcc tggcaaggcc
+     3301 tctgcccctg gcctttgagg caaaggccag cagcagataa caaccccgga caaatcagcg
+     3361 atgtgtcacc cccagtctcc caccttttct tctaatgagt cgactttgag ctggaaagca
+     3421 gccgtttctc cttggtctaa gtgtgctgca tggagtgagc agtagaagcc tgcagcggca
+     3481 caaatgcacc tcccagtttg ctgggtttat tttagagaat gggggtgggg aggcaagaac
+     3541 cagtgtttag cgcgggacta ctgttccaaa aagaattcca accgaccagc ttgtttgtga
+     3601 aacaaaaaag tgttcccttt tcaagttgag aacaaaaatt gggttttaaa attaaagtat
+     3661 acatttttgc attgccttcg gtttgtattt agtgtcttga atgtaagaac atgacctccg
+     3721 tgtagtgtct gtaatacctt agttttttcc acagatgctt gtgatttttg aacaatacgt
+     3781 gaaagatgca agcacctgaa tttctgtttg aatgcggaac aatagctggt tatttctccc
+     3841 ttgtgttagt aataaacgtc ttgccacact aagcctccaa atttactctt tattagacgc
+     3901 caacagatgt atacattcag ccagatagac tg
+//
+
